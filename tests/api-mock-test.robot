@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation  This is basic info about test suite
 Library  Selenium2Library
-Library  HttpLibrary.HTT
+Library  HttpLibrary.HTTP
 
 *** Variables ***
 
